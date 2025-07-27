@@ -1,0 +1,1 @@
+xamp er htdocs folder er moddhe folder create korte hobe then http://localhost/MASHUKA/submit.php run korte hobe
